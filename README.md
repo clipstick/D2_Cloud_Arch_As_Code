@@ -51,7 +51,7 @@ VPC2: {
 VPC.Server2 -> VPC2.Server2: Read Replication
 ```
 
-![Output of the above code](https://github.com/clipstick/D2_Cloud_Arch_As_Code/blob/main/Workspace/aws/simple_EC2.svg)
+![Output of the above code](https://github.com/clipstick/D2_Cloud_Arch_As_Code/blob/main/Workspace/aws/Simple_EC2.svg)
 
 Replace `...@../aws-nodes` with the path relative to your D2 file where the AWS node definitions are stored. The same applies for `...@../general-nodes` and other services.
 
