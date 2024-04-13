@@ -58,7 +58,3 @@ Replace `...@../aws-nodes` with the path relative to your D2 file where the AWS 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or additions, feel free to open an issue or a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE](LICENSE.md) file for details.
