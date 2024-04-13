@@ -1,0 +1,1110 @@
+alert {
+    icon:C:\Development\D2\assets\vmware\alert.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+alignment {
+    icon:C:\Development\D2\assets\vmware\alignment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+application {
+    icon:C:\Development\D2\assets\vmware\application.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+blueprint {
+    icon:C:\Development\D2\assets\vmware\blueprint.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+book {
+    icon:C:\Development\D2\assets\vmware\book.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+calendar {
+    icon:C:\Development\D2\assets\vmware\calendar.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+car {
+    icon:C:\Development\D2\assets\vmware\car.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+certificate-server {
+    icon:C:\Development\D2\assets\vmware\certificate-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+cloud-native-apps {
+    icon:C:\Development\D2\assets\vmware\cloud-native-apps.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+cog {
+    icon:C:\Development\D2\assets\vmware\cog.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+consumption-plane {
+    icon:C:\Development\D2\assets\vmware\consumption-plane.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+cpu {
+    icon:C:\Development\D2\assets\vmware\cpu.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+data-center {
+    icon:C:\Development\D2\assets\vmware\data-center.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+data-protection {
+    icon:C:\Development\D2\assets\vmware\data-protection.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+database-server {
+    icon:C:\Development\D2\assets\vmware\database-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+database {
+    icon:C:\Development\D2\assets\vmware\database.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+datastore {
+    icon:C:\Development\D2\assets\vmware\datastore.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+desktop {
+    icon:C:\Development\D2\assets\vmware\desktop.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+directory-server {
+    icon:C:\Development\D2\assets\vmware\directory-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+discovery {
+    icon:C:\Development\D2\assets\vmware\discovery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+disk {
+    icon:C:\Development\D2\assets\vmware\disk.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+file {
+    icon:C:\Development\D2\assets\vmware\file.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+firewall {
+    icon:C:\Development\D2\assets\vmware\firewall.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+folder {
+    icon:C:\Development\D2\assets\vmware\folder.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+group {
+    icon:C:\Development\D2\assets\vmware\group.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+hard-disk {
+    icon:C:\Development\D2\assets\vmware\hard-disk.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+horizon {
+    icon:C:\Development\D2\assets\vmware\horizon.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+identity {
+    icon:C:\Development\D2\assets\vmware\identity.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+inftrastructure {
+    icon:C:\Development\D2\assets\vmware\inftrastructure.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+key {
+    icon:C:\Development\D2\assets\vmware\key.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+keyboard {
+    icon:C:\Development\D2\assets\vmware\keyboard.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+kubernetes {
+    icon:C:\Development\D2\assets\vmware\kubernetes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+laptop {
+    icon:C:\Development\D2\assets\vmware\laptop.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+license {
+    icon:C:\Development\D2\assets\vmware\license.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+load-balancer {
+    icon:C:\Development\D2\assets\vmware\load-balancer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+local-building {
+    icon:C:\Development\D2\assets\vmware\local-building.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+mail-server {
+    icon:C:\Development\D2\assets\vmware\mail-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+memory {
+    icon:C:\Development\D2\assets\vmware\memory.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+mobile-tower {
+    icon:C:\Development\D2\assets\vmware\mobile-tower.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+mobile {
+    icon:C:\Development\D2\assets\vmware\mobile.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+mouse {
+    icon:C:\Development\D2\assets\vmware\mouse.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+network-port {
+    icon:C:\Development\D2\assets\vmware\network-port.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+networking {
+    icon:C:\Development\D2\assets\vmware\networking.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx-controller {
+    icon:C:\Development\D2\assets\vmware\nsx-controller.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx-csm {
+    icon:C:\Development\D2\assets\vmware\nsx-csm.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx-dlr-control {
+    icon:C:\Development\D2\assets\vmware\nsx-dlr-control.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx-gateway {
+    icon:C:\Development\D2\assets\vmware\nsx-gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx-manager {
+    icon:C:\Development\D2\assets\vmware\nsx-manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+nsx {
+    icon:C:\Development\D2\assets\vmware\nsx.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+physical-nic {
+    icon:C:\Development\D2\assets\vmware\physical-nic.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+pivotal {
+    icon:C:\Development\D2\assets\vmware\pivotal.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+pks {
+    icon:C:\Development\D2\assets\vmware\pks.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+psc {
+    icon:C:\Development\D2\assets\vmware\psc.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+public-cloud {
+    icon:C:\Development\D2\assets\vmware\public-cloud.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+rack-server {
+    icon:C:\Development\D2\assets\vmware\rack-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+rack-servers {
+    icon:C:\Development\D2\assets\vmware\rack-servers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+reservation {
+    icon:C:\Development\D2\assets\vmware\reservation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+router {
+    icon:C:\Development\D2\assets\vmware\router.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+scsi-controller {
+    icon:C:\Development\D2\assets\vmware\scsi-controller.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+security {
+    icon:C:\Development\D2\assets\vmware\security.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+self-service {
+    icon:C:\Development\D2\assets\vmware\self-service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+server {
+    icon:C:\Development\D2\assets\vmware\server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+servers {
+    icon:C:\Development\D2\assets\vmware\servers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+service-provider {
+    icon:C:\Development\D2\assets\vmware\service-provider.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+site-container {
+    icon:C:\Development\D2\assets\vmware\site-container.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+ssd {
+    icon:C:\Development\D2\assets\vmware\ssd.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+switch {
+    icon:C:\Development\D2\assets\vmware\switch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+template {
+    icon:C:\Development\D2\assets\vmware\template.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+usb {
+    icon:C:\Development\D2\assets\vmware\usb.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+user {
+    icon:C:\Development\D2\assets\vmware\user.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vapp {
+    icon:C:\Development\D2\assets\vmware\vapp.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vcenter-server {
+    icon:C:\Development\D2\assets\vmware\vcenter-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+virtual-appliance {
+    icon:C:\Development\D2\assets\vmware\virtual-appliance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+virtual-switch {
+    icon:C:\Development\D2\assets\vmware\virtual-switch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vm-server {
+    icon:C:\Development\D2\assets\vmware\vm-server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vm {
+    icon:C:\Development\D2\assets\vmware\vm.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmc-dellemc {
+    icon:C:\Development\D2\assets\vmware\vmc-dellemc.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmc {
+    icon:C:\Development\D2\assets\vmware\vmc.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-appdefense {
+    icon:C:\Development\D2\assets\vmware\vmware-appdefense.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cloud-assembly {
+    icon:C:\Development\D2\assets\vmware\vmware-cloud-assembly.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cloud-director {
+    icon:C:\Development\D2\assets\vmware\vmware-cloud-director.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cloud-foundation {
+    icon:C:\Development\D2\assets\vmware\vmware-cloud-foundation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cloud-pks {
+    icon:C:\Development\D2\assets\vmware\vmware-cloud-pks.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cloud {
+    icon:C:\Development\D2\assets\vmware\vmware-cloud.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-code-stream {
+    icon:C:\Development\D2\assets\vmware\vmware-code-stream.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-cost-insight {
+    icon:C:\Development\D2\assets\vmware\vmware-cost-insight.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-hcx {
+    icon:C:\Development\D2\assets\vmware\vmware-hcx.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-nsx {
+    icon:C:\Development\D2\assets\vmware\vmware-nsx.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-nsxt {
+    icon:C:\Development\D2\assets\vmware\vmware-nsxt.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-nsxv {
+    icon:C:\Development\D2\assets\vmware\vmware-nsxv.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-pulse-iot {
+    icon:C:\Development\D2\assets\vmware\vmware-pulse-iot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-secure-state {
+    icon:C:\Development\D2\assets\vmware\vmware-secure-state.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-service-catalog {
+    icon:C:\Development\D2\assets\vmware\vmware-service-catalog.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-site-recovery {
+    icon:C:\Development\D2\assets\vmware\vmware-site-recovery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vcloud-extender {
+    icon:C:\Development\D2\assets\vmware\vmware-vcloud-extender.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-automation {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-automation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-business {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-business.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-log-insight {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-log-insight.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-network-insight {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-network-insight.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-orchestraor {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-orchestraor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-orchestrator {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-orchestrator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vrealize-suite {
+    icon:C:\Development\D2\assets\vmware\vmware-vrealize-suite.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vsan {
+    icon:C:\Development\D2\assets\vmware\vmware-vsan.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vshield {
+    icon:C:\Development\D2\assets\vmware\vmware-vshield.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-vsphere-replication {
+    icon:C:\Development\D2\assets\vmware\vmware-vsphere-replication.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vmware-workspace-one {
+    icon:C:\Development\D2\assets\vmware\vmware-workspace-one.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vpn {
+    icon:C:\Development\D2\assets\vmware\vpn.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vrops {
+    icon:C:\Development\D2\assets\vmware\vrops.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+vxlan {
+    icon:C:\Development\D2\assets\vmware\vxlan.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+wavefront {
+    icon:C:\Development\D2\assets\vmware\wavefront.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+wi-fi {
+    icon:C:\Development\D2\assets\vmware\wi-fi.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+

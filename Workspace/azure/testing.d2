@@ -1,0 +1,30 @@
+...@../azure-nodes
+
+vNet.class: 10075-icon-service-Virtual-Networks
+vNet: {
+near:top-left  
+  label: vNet AZ-1
+  Server1.class: 10021-icon-service-Virtual-Machine
+
+  Server1: {
+    tooltip: Apache2 & PHP 
+    label: Webserver
+  }
+  Server2.class: 01849-icon-service-Arc-SQL-Managed-Instance
+
+  Server1 <-> Server2: DB Connection
+}
+
+vNet2.class: 10075-icon-service-Virtual-Networks
+vNet2: {
+    near:top-right
+  label: vNet AZ-2
+  Server1.class: 10021-icon-service-Virtual-Machine
+  Server2.class: 01849-icon-service-Arc-SQL-Managed-Instance
+  Webapp.class:02515-icon-service-Web-App-+-Database
+  # #Connections 
+  Server1 <-> Server2: DB Connection
+}
+
+
+vNet.Server2 -> vNet2.Server2: Read Replication

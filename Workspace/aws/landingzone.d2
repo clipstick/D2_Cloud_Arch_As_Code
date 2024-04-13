@@ -1,0 +1,74 @@
+
+# Import the aws-nodes.d2 file
+vars{
+    d2-config:{
+     layout-engine:ELK 
+    }
+ }
+...@../aws-nodes
+
+explain: |md
+#Title
+##SOmehting
+
+|
+ManagementAccount.class:AWS-Account 
+ManagementAccount{
+
+    style{
+        fill: pink
+    }
+
+    near:top-left
+    AWS_Control_Tower.class:Arch_AWS-Control-Tower
+    AWS_Organizations.class:Arch_AWS-Organizations
+    AWS_CloudFormation_StackSets.class:Res_AWS-CloudFormation_Stack
+    AWS_Service_Catalog_Account_Factory
+    AWS_IAM_Identity_Center.class:Arch_AWS-IAM-Identity-Center
+    Identity_Center_Directory.class:Arch_AWS-Directory-Service
+    Security_OU.class:OU
+    Sandbox_OU.class:OU
+
+    #Connections
+    AWS_IAM_Identity_Center->Identity_Center_Directory
+    
+    AWS_Control_Tower-> AWS_Organizations
+    AWS_Control_Tower-> AWS_CloudFormation_StackSets
+    AWS_Control_Tower-> AWS_Service_Catalog_Account_Factory
+
+    AWS_Organizations-> Security_OU
+    AWS_Organizations-> Sandbox_OU
+    AWS_Organizations-> AWS_IAM_Identity_Center
+    
+    
+}
+LogArchiveAccount.class:AWS-Account 
+LogArchiveAccount{
+    near:top-right
+    Account_baseline
+    Centeralised_CloudTrail_and_ConfigLogs
+
+}
+AuditAccount.class:AWS-Account
+AuditAccount{
+    near:center-left
+    Account_baseline
+    Security_notifications
+    Security_cross-account_roles
+    AWS_Config_aggregator
+
+}
+ProvisionedAccounts.class:AWS-Account 
+ProvisionedAccounts:{
+    style{
+        multiple: true
+    }
+}
+ProvisionedAccounts{
+    near:center-right
+    Account_baseline 
+    Network_baseline
+}
+
+ManagementAccount.Security_OU->AuditAccount
+ManagementAccount.Sandbox_OU->ProvisionedAccounts

@@ -1,0 +1,8870 @@
+Arch-Category_Analytics {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Analytics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Application-Integration {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Application-Integration.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Blockchain {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Blockchain.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Business-Applications {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Business-Applications.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Cloud-Financial-Management {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Cloud-Financial-Management.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Compute {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Compute.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Contact-Center {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Contact-Center.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Containers {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Containers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Customer-Enablement {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Customer-Enablement.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Database {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Database.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Developer-Tools {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Developer-Tools.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_End-User-Computing {
+    icon:C:/Development/D2/assets/aws/Arch-Category_End-User-Computing.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Front-End-Web-Mobile {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Front-End-Web-Mobile.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Games {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Games.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Internet-of-Things {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Internet-of-Things.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Machine-Learning {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Machine-Learning.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Management-Governance {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Management-Governance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Media-Services {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Media-Services.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Migration-Transfer {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Migration-Transfer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Networking-Content-Delivery {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Networking-Content-Delivery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Quantum-Technologies {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Quantum-Technologies.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Robotics {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Robotics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Satellite {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Satellite.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Security-Identity-Compliance {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Security-Identity-Compliance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Serverless {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Serverless.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch-Category_Storage {
+    icon:C:/Development/D2/assets/aws/Arch-Category_Storage.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Alexa-For-Business {
+    icon:C:/Development/D2/assets/aws/Arch_Alexa-For-Business.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-API-Gateway {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-API-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-AppFlow {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-AppFlow.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-AppStream {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-AppStream.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Athena {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Athena.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Augmented-AI-A2I {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Augmented-AI-A2I.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Aurora {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Aurora.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Bedrock {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Bedrock.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Braket {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Braket.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Chime-SDK {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Chime-SDK.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Chime {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Chime.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Cloud-Directory {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Cloud-Directory.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CloudFront {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CloudFront.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CloudSearch {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CloudSearch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CloudWatch {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CloudWatch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CodeCatalyst {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CodeCatalyst.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CodeGuru {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CodeGuru.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-CodeWhisperer {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-CodeWhisperer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Cognito {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Cognito.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Comprehend-Medical {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Comprehend-Medical.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Comprehend {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Comprehend.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Connect {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Connect.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Corretto {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Corretto.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-DataZone {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-DataZone.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Detective {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Detective.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-DevOps-Guru {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-DevOps-Guru.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-DocumentDB {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-DocumentDB.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-DynamoDB {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-DynamoDB.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EC2-Auto-Scaling {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EC2-Auto-Scaling.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EC2-Image-Builder {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EC2-Image-Builder.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EC2 {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EC2.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-ECS-Anywhere {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-ECS-Anywhere.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EFS {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EFS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EKS-Anywhere {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EKS-Anywhere.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EKS-Cloud {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EKS-Cloud.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EKS-Distro {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EKS-Distro.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Block-Store {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Block-Store.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Container-Registry {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Container-Registry.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Container-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Container-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Inference {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Inference.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Kubernetes-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Kubernetes-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Elastic-Transcoder {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Elastic-Transcoder.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-ElastiCache {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-ElastiCache.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EMR {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EMR.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-EventBridge {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-EventBridge.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-File-Cache {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-File-Cache.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FinSpace {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FinSpace.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Forecast {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Forecast.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Fraud-Detector {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Fraud-Detector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FSx-for-Lustre {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FSx-for-Lustre.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FSx-for-NetApp-ONTAP {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FSx-for-NetApp-ONTAP.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FSx-for-OpenZFS {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FSx-for-OpenZFS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FSx-for-WFS {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FSx-for-WFS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-FSx {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-FSx.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-GameLift {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-GameLift.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-GameSparks {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-GameSparks.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Genomics-CLI {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Genomics-CLI.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-GuardDuty {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-GuardDuty.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Honeycode {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Honeycode.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Inspector {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Inspector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Interactive-Video-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Interactive-Video-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Kendra {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Kendra.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Keyspaces {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Keyspaces.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Kinesis-Data-Firehose {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Kinesis-Data-Firehose.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Kinesis-Data-Streams {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Kinesis-Data-Streams.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Kinesis-Video-Streams {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Kinesis-Video-Streams.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Kinesis {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Kinesis.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lex {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lex.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lightsail-for-Research {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lightsail-for-Research.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lightsail {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lightsail.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Location-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Location-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lookout-for-Equipment {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lookout-for-Equipment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lookout-for-Metrics {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lookout-for-Metrics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Lookout-for-Vision {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Lookout-for-Vision.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Macie {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Macie.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Blockchain {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Blockchain.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Grafana {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Grafana.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Service-for-Apache-Flink {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Service-for-Apache-Flink.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Service-for-Prometheus {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Service-for-Prometheus.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Streaming-for-Apache-Kafka {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Streaming-for-Apache-Kafka.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Managed-Workflows-for-Apache-Airflow {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Managed-Workflows-for-Apache-Airflow.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-MemoryDB-for-Redis {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-MemoryDB-for-Redis.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Monitron {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Monitron.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-MQ {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-MQ.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Neptune {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Neptune.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Nimble-Studio {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Nimble-Studio.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-OpenSearch-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-OpenSearch-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Personalize {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Personalize.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Pinpoint-APIs {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Pinpoint-APIs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Pinpoint {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Pinpoint.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Polly {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Polly.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Q {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Q.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Quantum-Ledger-Database {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Quantum-Ledger-Database.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-QuickSight {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-QuickSight.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-RDS-on-VMware {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-RDS-on-VMware.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-RDS {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-RDS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Redshift {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Redshift.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Rekognition {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Rekognition.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Route-53 {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Route-53.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-S3-on-Outposts {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-S3-on-Outposts.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-SageMaker-Ground-Truth {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-SageMaker-Ground-Truth.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-SageMaker-Studio-Lab {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-SageMaker-Studio-Lab.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-SageMaker {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-SageMaker.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Security-Lake {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Security-Lake.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Simple-Email-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Simple-Email-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Simple-Notification-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Simple-Notification-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Simple-Queue-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Simple-Queue-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Simple-Storage-Service-Glacier {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Simple-Storage-Service-Glacier.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Simple-Storage-Service {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Simple-Storage-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Textract {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Textract.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Timestream {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Timestream.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Transcribe {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Transcribe.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Translate {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Translate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Verified-Permissions {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Verified-Permissions.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-Virtual-Private-Cloud {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-Virtual-Private-Cloud.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-VPC-Lattice {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-VPC-Lattice.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkDocs-SDK {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkDocs-SDK.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkDocs {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkDocs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkLink {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkLink.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkMail {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkMail.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkSpaces-Family {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkSpaces-Family.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Amazon-WorkSpaces-Thin-Client {
+    icon:C:/Development/D2/assets/aws/Arch_Amazon-WorkSpaces-Thin-Client.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Apache-MXNet-on-AWS {
+    icon:C:/Development/D2/assets/aws/Arch_Apache-MXNet-on-AWS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Activate {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Activate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Amplify {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Amplify.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-App-Mesh {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-App-Mesh.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-App-Runner {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-App-Runner.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-AppConfig {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-AppConfig.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-AppFabric {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-AppFabric.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Application-Auto-Scaling {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Application-Auto-Scaling.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Application-Composer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Application-Composer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Application-Cost-Profiler {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Application-Cost-Profiler.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Application-Discovery-Service {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Application-Discovery-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Application-Migration-Service {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Application-Migration-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-AppSync {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-AppSync.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Artifact {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Artifact.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Audit-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Audit-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Auto-Scaling {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Auto-Scaling.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-B2B-Data-Interchange {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-B2B-Data-Interchange.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Backint-Agent {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Backint-Agent.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Backup {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Backup.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Batch {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Batch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Billing-Conductor {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Billing-Conductor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Budgets {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Budgets.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Certificate-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Certificate-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Chatbot {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Chatbot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Clean-Rooms {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Clean-Rooms.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Client-VPN {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Client-VPN.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cloud-Control-API {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cloud-Control-API.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cloud-Development-Kit {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cloud-Development-Kit.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cloud-Map {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cloud-Map.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cloud-WAN {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cloud-WAN.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cloud9 {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cloud9.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CloudFormation {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CloudFormation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CloudHSM {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CloudHSM.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CloudShell {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CloudShell.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CloudTrail {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CloudTrail.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodeArtifact {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodeArtifact.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodeBuild {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodeBuild.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodeCommit {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodeCommit.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodeDeploy {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodeDeploy.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodePipeline {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodePipeline.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-CodeStar {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-CodeStar.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Command-Line-Interface {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Command-Line-Interface.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Compute-Optimizer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Compute-Optimizer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Config {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Config.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Console-Mobile-Application {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Console-Mobile-Application.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Control-Tower {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Control-Tower.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cost-and-Usage-Report {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cost-and-Usage-Report.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Cost-Explorer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Cost-Explorer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Data-Exchange {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Data-Exchange.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Data-Pipeline {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Data-Pipeline.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Database-Migration-Service {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Database-Migration-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-DataSync {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-DataSync.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Deep-Learning-AMIs {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Deep-Learning-AMIs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Deep-Learning-Containers {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Deep-Learning-Containers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-DeepComposer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-DeepComposer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-DeepLens {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-DeepLens.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-DeepRacer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-DeepRacer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Device-Farm {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Device-Farm.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Direct-Connect {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Direct-Connect.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Directory-Service {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Directory-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Distro-for-OpenTelemetry {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Distro-for-OpenTelemetry.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elastic-Beanstalk {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elastic-Beanstalk.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elastic-Disaster-Recovery {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elastic-Disaster-Recovery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Appliances-&-Software {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Appliances-&-Software.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Conductor {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Conductor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Delta {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Delta.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Link {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Link.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Live {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Live.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaConnect {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaConnect.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaConvert {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaConvert.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaLive {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaLive.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaPackage {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaPackage.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaStore {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaStore.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-MediaTailor {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-MediaTailor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Elemental-Server {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Elemental-Server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Entity-Resolution {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Entity-Resolution.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Express-Workflows {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Express-Workflows.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Fargate {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Fargate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Fault-Injection-Simulator {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Fault-Injection-Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Firewall-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Firewall-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-GameKit {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-GameKit.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Global-Accelerator {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Global-Accelerator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Glue-DataBrew {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Glue-DataBrew.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Glue-Elastic-Views {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Glue-Elastic-Views.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Glue {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Glue.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Ground-Station {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Ground-Station.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Health-Dashboard {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Health-Dashboard.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-HealthImaging {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-HealthImaging.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-HealthLake {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-HealthLake.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-HealthOmics {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-HealthOmics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-HealthScribe {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-HealthScribe.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IAM-Identity-Center {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IAM-Identity-Center.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Identity-and-Access-Management {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Identity-and-Access-Management.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-1-Click {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-1-Click.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Analytics {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Analytics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Button {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Button.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Core {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Core.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Device-Defender {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Device-Defender.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Device-Management {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Device-Management.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Events {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Events.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-ExpressLink {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-ExpressLink.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-FleetWise {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-FleetWise.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Greengrass {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Greengrass.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-RoboRunner {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-RoboRunner.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-SiteWise {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-SiteWise.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-Things-Graph {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-Things-Graph.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IoT-TwinMaker {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IoT-TwinMaker.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-IQ {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-IQ.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Key-Management-Service {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Key-Management-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Lake-Formation {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Lake-Formation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Lambda {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Lambda.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Launch-Wizard {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Launch-Wizard.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-License-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-License-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Local-Zones {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Local-Zones.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Mainframe-Modernization {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Mainframe-Modernization.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Managed-Services {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Managed-Services.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Management-Console {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Management-Console.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Marketplace_Dark {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Marketplace_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Marketplace_Light {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Marketplace_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Migration-Evaluator {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Migration-Evaluator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Migration-Hub {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Migration-Hub.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Network-Firewall {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Network-Firewall.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Neuron {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Neuron.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Nitro-Enclaves {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Nitro-Enclaves.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-OpsWorks {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-OpsWorks.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Organizations {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Organizations.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Outposts-family {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Outposts-family.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Outposts-rack {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Outposts-rack.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Outposts-servers {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Outposts-servers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Panorama {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Panorama.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Parallel-Cluster {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Parallel-Cluster.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Payment-Cryptography {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Payment-Cryptography.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Private-5G {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Private-5G.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Private-Certificate-Authority {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Private-Certificate-Authority.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-PrivateLink {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-PrivateLink.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Professional-Services {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Professional-Services.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Proton {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Proton.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-rePost-Private {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-rePost-Private.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-rePost {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-rePost.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Resilience-Hub {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Resilience-Hub.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Resource-Access-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Resource-Access-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Resource-Explorer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Resource-Explorer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-RoboMaker {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-RoboMaker.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Secrets-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Secrets-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Security-Hub {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Security-Hub.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Serverless-Application-Repository {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Serverless-Application-Repository.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Service-Catalog {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Service-Catalog.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Service-Management-Connector {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Service-Management-Connector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Shield {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Shield.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Signer {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Signer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-SimSpace-Weaver {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-SimSpace-Weaver.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Site-to-Site-VPN {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Site-to-Site-VPN.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Snowball-Edge {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Snowball-Edge.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Snowball {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Snowball.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Snowcone {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Snowcone.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Snowmobile {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Snowmobile.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Step-Functions {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Step-Functions.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Storage-Gateway {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Storage-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Supply-Chain {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Supply-Chain.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Support {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Support.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Systems-Manager {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Systems-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Telco-Network-Builder {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Telco-Network-Builder.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-Deadline {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-Deadline.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-Frost {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-Frost.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-Krakatoa {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-Krakatoa.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-Sequoia {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-Sequoia.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-Stoke {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-Stoke.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Thinkbox-XMesh {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Thinkbox-XMesh.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Tools-and-SDKs {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Tools-and-SDKs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Training-Certification {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Training-Certification.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Transfer-Family {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Transfer-Family.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Transit-Gateway {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Transit-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Trusted-Advisor {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Trusted-Advisor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Verified-Access {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Verified-Access.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-WAF {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-WAF.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Wavelength {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Wavelength.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Well-Architected-Tool {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Well-Architected-Tool.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-Wickr {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-Wickr.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_AWS-X-Ray {
+    icon:C:/Development/D2/assets/aws/Arch_AWS-X-Ray.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Bottlerocket {
+    icon:C:/Development/D2/assets/aws/Arch_Bottlerocket.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Elastic-Fabric-Adapter {
+    icon:C:/Development/D2/assets/aws/Arch_Elastic-Fabric-Adapter.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Elastic-Load-Balancing {
+    icon:C:/Development/D2/assets/aws/Arch_Elastic-Load-Balancing.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_FreeRTOS {
+    icon:C:/Development/D2/assets/aws/Arch_FreeRTOS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_NICE-DCV {
+    icon:C:/Development/D2/assets/aws/Arch_NICE-DCV.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_NICE-EnginFrame {
+    icon:C:/Development/D2/assets/aws/Arch_NICE-EnginFrame.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Open-3D-Engine {
+    icon:C:/Development/D2/assets/aws/Arch_Open-3D-Engine.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Red-Hat-OpenShift-Service-on-AWS {
+    icon:C:/Development/D2/assets/aws/Arch_Red-Hat-OpenShift-Service-on-AWS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Reserved-Instance-Reporting {
+    icon:C:/Development/D2/assets/aws/Arch_Reserved-Instance-Reporting.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_Savings-Plans {
+    icon:C:/Development/D2/assets/aws/Arch_Savings-Plans.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_TensorFlow-on-AWS {
+    icon:C:/Development/D2/assets/aws/Arch_TensorFlow-on-AWS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_TorchServe {
+    icon:C:/Development/D2/assets/aws/Arch_TorchServe.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Arch_VMware-Cloud-on-AWS {
+    icon:C:/Development/D2/assets/aws/Arch_VMware-Cloud-on-AWS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Auto-Scaling-group {
+    icon:C:/Development/D2/assets/aws/Auto-Scaling-group.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-Account {
+    icon:C:/Development/D2/assets/aws/AWS-Account.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-Cloud-logo {
+    icon:C:/Development/D2/assets/aws/AWS-Cloud-logo.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-Cloud-logo_32_Dark {
+    icon:C:/Development/D2/assets/aws/AWS-Cloud-logo_32_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-Cloud {
+    icon:C:/Development/D2/assets/aws/AWS-Cloud.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-Cloud_32_Dark {
+    icon:C:/Development/D2/assets/aws/AWS-Cloud_32_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+AWS-IoT-Greengrass-Deployment {
+    icon:C:/Development/D2/assets/aws/AWS-IoT-Greengrass-Deployment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Corporate-data-center {
+    icon:C:/Development/D2/assets/aws/Corporate-data-center.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+EC2-instance-contents {
+    icon:C:/Development/D2/assets/aws/EC2-instance-contents.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Private-subnet {
+    icon:C:/Development/D2/assets/aws/Private-subnet.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Public-subnet {
+    icon:C:/Development/D2/assets/aws/Public-subnet.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Region {
+    icon:C:/Development/D2/assets/aws/Region.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Alert_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Alert_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Alert_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Alert_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-API-Gateway_Endpoint {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-API-Gateway_Endpoint.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Athena_Data-Source-Connectors {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Athena_Data-Source-Connectors.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-MariaDB-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-MariaDB-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-MariaDB-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-MariaDB-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-MySQL-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-MySQL-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-MySQL-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-MySQL-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-Oracle-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-Oracle-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-Oracle-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-Oracle-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-PIOPS-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-PIOPS-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-PostgreSQL-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-PostgreSQL-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-PostgreSQL-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-PostgreSQL-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-SQL-Server-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-SQL-Server-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora-SQL-Server-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora-SQL-Server-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora_Amazon-Aurora-Instance-alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora_Amazon-Aurora-Instance-alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora_Amazon-RDS-Instance-Aternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora_Amazon-RDS-Instance-Aternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora_Amazon-RDS-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora_Amazon-RDS-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Aurora_Trusted-Language-Extensions-for-PostgreSQL {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Aurora_Trusted-Language-Extensions-for-PostgreSQL.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Chandelier {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Chandelier.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Chip {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Chip.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Embedded-Simulator {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Embedded-Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Managed-Simulator {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Managed-Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Noise-Simulator {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Noise-Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_QPU {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_QPU.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Simulator-1 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Simulator-1.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Simulator-2 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Simulator-2.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Simulator-3 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Simulator-3.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Simulator-4 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Simulator-4.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Simulator {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_State-Vector {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_State-Vector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Braket_Tensor-Network {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Braket_Tensor-Network.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudFront_Download-Distribution {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudFront_Download-Distribution.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudFront_Edge-Location {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudFront_Edge-Location.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudFront_Functions {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudFront_Functions.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudFront_Streaming-Distribution {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudFront_Streaming-Distribution.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudSearch_Search-Documents {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudSearch_Search-Documents.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Alarm {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Alarm.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Cross-account-Observability {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Cross-account-Observability.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Data-Protection {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Data-Protection.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Event-Event-Based {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Event-Event-Based.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Event-Time-Based {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Event-Time-Based.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Evidently {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Evidently.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Logs {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Logs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Metrics-Insights {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Metrics-Insights.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Rule {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_RUM {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_RUM.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-CloudWatch_Synthetics {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-CloudWatch_Synthetics.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DataZone_Business-Data-Catalog {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DataZone_Business-Data-Catalog.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DataZone_Data-Portal {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DataZone_Data-Portal.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DataZone_Data-Projects {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DataZone_Data-Projects.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DevOps-Guru_Insights {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DevOps-Guru_Insights.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DocumentDB_Elastic-Clusters {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DocumentDB_Elastic-Clusters.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Amazon-DynamoDB-Accelerator {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Amazon-DynamoDB-Accelerator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Attribute {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Attribute.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Attributes {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Attributes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Global-secondary-index {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Global-secondary-index.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Item {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Item.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Items {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Items.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Standard-Access-Table-Class {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Standard-Access-Table-Class.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Standard-Infrequent-Access-Table-Class {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Standard-Infrequent-Access-Table-Class.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Stream {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Stream.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-DynamoDB_Table {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-DynamoDB_Table.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_AMI {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_AMI.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Auto-Scaling {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Auto-Scaling.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_AWS-Microservice-Extractor-for-.NET {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_AWS-Microservice-Extractor-for-.NET.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_DB-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_DB-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Elastic-IP-Address {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Elastic-IP-Address.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Instance-with-CloudWatch {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Instance-with-CloudWatch.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Instances {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Instances.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Rescue {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Rescue.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EC2_Spot-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EC2_Spot-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Block-Store_Amazon-Data-Lifecycle-Manager {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Block-Store_Amazon-Data-Lifecycle-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Block-Store_Multiple-Volumes {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Block-Store_Multiple-Volumes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Block-Store_Snapshot {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Block-Store_Snapshot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Block-Store_Volume-gp3 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Block-Store_Volume-gp3.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Block-Store_Volume {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Block-Store_Volume.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Registry_Image {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Registry_Image.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Registry_Registry {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Registry_Registry.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_Container-1 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_Container-1.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_Container-2 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_Container-2.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_Container-3 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_Container-3.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_CopiIoT-CLI {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_CopiIoT-CLI.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_ECS-Service-Connect {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_ECS-Service-Connect.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_Service {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Container-Service_Task {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Container-Service_Task.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_EFS-Intelligent-Tiering {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_EFS-Intelligent-Tiering.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_EFS-One-Zone-Infrequent-Access {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_EFS-One-Zone-Infrequent-Access.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_EFS-One-Zone {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_EFS-One-Zone.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_EFS-Standard-Infrequent-Access {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_EFS-Standard-Infrequent-Access.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_EFS-Standard {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_EFS-Standard.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_Elastic-Throughput {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_Elastic-Throughput.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-File-System_File-System {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-File-System_File-System.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Elastic-Kubernetes-Service_EKS-on-Outposts {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Elastic-Kubernetes-Service_EKS-on-Outposts.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-ElastiCache_Cache-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-ElastiCache_Cache-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-ElastiCache_ElastiCache-for-Memcached {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-ElastiCache_ElastiCache-for-Memcached.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-ElastiCache_ElastiCache-for-Redis {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-ElastiCache_ElastiCache-for-Redis.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EMR_Cluster {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EMR_Cluster.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EMR_EMR-Engine {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EMR_EMR-Engine.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EMR_HDFS-Cluster {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EMR_HDFS-Cluster.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge-Event {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge-Event.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Custom-Event-Bus {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Custom-Event-Bus.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Default-Event-Bus {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Default-Event-Bus.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Pipes {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Pipes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Rule {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Saas-Partner-Event {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Saas-Partner-Event.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Scheduler {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Scheduler.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Schema-Registry {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Schema-Registry.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-EventBridge_Schema {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-EventBridge_Schema.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-File-Cache_Hybrid-NFS-linked-datasets {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-File-Cache_Hybrid-NFS-linked-datasets.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-File-Cache_On-premises-NFS-linked-datasets {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-File-Cache_On-premises-NFS-linked-datasets.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-File-Cache_S3-linked-datasets {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-File-Cache_S3-linked-datasets.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Inspector_Agent {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Inspector_Agent.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Location-Service_Geofence {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Location-Service_Geofence.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Location-Service_Map  {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Location-Service_Map .svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Location-Service_Place {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Location-Service_Place.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Location-Service_Routes {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Location-Service_Routes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Location-Service_Track  {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Location-Service_Track .svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Managed-Blockchain_Blockchain {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Managed-Blockchain_Blockchain.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-MQ_Broker {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-MQ_Broker.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-MSK_Amazon-MSK-Connect {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-MSK_Amazon-MSK-Connect.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_Cluster-Administrator-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_Cluster-Administrator-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_Data-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_Data-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_Index {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_Index.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_Observability {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_Observability.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_OpenSearch-Dashboards {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_OpenSearch-Dashboards.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_OpenSearch-Ingestion {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_OpenSearch-Ingestion.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_Traces {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_Traces.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-OpenSearch-Service_UltraWarm-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-OpenSearch-Service_UltraWarm-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Pinpoint_Journey {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Pinpoint_Journey.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Quicksight_Paginated-Reports {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Quicksight_Paginated-Reports.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS-Proxy-Instance-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS-Proxy-Instance-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS-Proxy-Instance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS-Proxy-Instance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS_Blue-Green-Deployments {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS_Blue-Green-Deployments.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS_Multi-AZ-DB-Cluster {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS_Multi-AZ-DB-Cluster.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS_Multi-AZ {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS_Multi-AZ.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS_Optimized-Writes {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS_Optimized-Writes.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-RDS_Trusted-Language-Extensions-for-PostgreSQL {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-RDS_Trusted-Language-Extensions-for-PostgreSQL.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Auto-copy {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Auto-copy.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Data-Sharing-Governance {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Data-Sharing-Governance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Dense-Compute-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Dense-Compute-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Dense-Storage-Node {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Dense-Storage-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_ML {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_ML.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Query-Editor-v2.0 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Query-Editor-v2.0.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_RA3 {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_RA3.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Redshift_Streaming-Ingestion {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Redshift_Streaming-Ingestion.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Rekognition_Image {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Rekognition_Image.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Rekognition_Video {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Rekognition_Video.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53-Hosted-Zone {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53-Hosted-Zone.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Readiness-Checks {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Readiness-Checks.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Resolver-DNS-Firewall {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Resolver-DNS-Firewall.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Resolver-Query-Logging {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Resolver-Query-Logging.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Resolver {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Resolver.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Route-53-Application-Recovery-Controller {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Route-53-Application-Recovery-Controller.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Route-Table {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Route-Table.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Route-53_Routing-Controls {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Route-53_Routing-Controls.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Canvas {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Canvas.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Geospatial-ML {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Geospatial-ML.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Model {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Model.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Notebook {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Notebook.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Shadow-Testing {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Shadow-Testing.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-SageMaker_Train {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-SageMaker_Train.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Email-Service_Email {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Email-Service_Email.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Notification-Service_Email-Notification {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Notification-Service_Email-Notification.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Notification-Service_HTTP-Notification {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Notification-Service_HTTP-Notification.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Notification-Service_Topic {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Notification-Service_Topic.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Queue-Service_Message {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Queue-Service_Message.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Queue-Service_Queue {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Queue-Service_Queue.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service-Glacier_Archive {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service-Glacier_Archive.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service-Glacier_Vault {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service-Glacier_Vault.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_Bucket-With-Objects {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_Bucket-With-Objects.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_Bucket {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_Bucket.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_General-Access-Points {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_General-Access-Points.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_Object {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_Object.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Batch-Operations {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Batch-Operations.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Glacier-Deep-Archive {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Glacier-Deep-Archive.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Glacier-Flexible-Retrieval {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Glacier-Flexible-Retrieval.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Glacier-Instant-Retrieval {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Glacier-Instant-Retrieval.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Intelligent-Tiering {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Intelligent-Tiering.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Multi-Region-Access-Points {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Multi-Region-Access-Points.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Object-Lambda-Access-Points {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Object-Lambda-Access-Points.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Object-Lambda {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Object-Lambda.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Object-Lock {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Object-Lock.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-On-Outposts {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-On-Outposts.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-One-Zone-IA {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-One-Zone-IA.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Replication-Time-Control {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Replication-Time-Control.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Replication {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Replication.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Select {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Select.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Standard-IA {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Standard-IA.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Standard {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Standard.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_S3-Storage-Lens {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_S3-Storage-Lens.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Simple-Storage-Service_VPC-Access-Points {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Simple-Storage-Service_VPC-Access-Points.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-Textract_Analyze-Lending {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-Textract_Analyze-Lending.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Carrier-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Carrier-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Customer-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Customer-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Elastic-Network-Adapter {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Elastic-Network-Adapter.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Elastic-Network-Interface {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Elastic-Network-Interface.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Endpoints {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Endpoints.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Flow-Logs {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Flow-Logs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Internet-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Internet-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_NAT-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_NAT-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Network-Access-Analyzer {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Network-Access-Analyzer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Network-Access-Control-List {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Network-Access-Control-List.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Peering-Connection {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Peering-Connection.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Reachability-Analyzer {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Reachability-Analyzer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Router {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Router.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Traffic-Mirroring {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Traffic-Mirroring.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_Virtual-private-cloud-VPC {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_Virtual-private-cloud-VPC.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_VPN-Connection {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_VPN-Connection.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-VPC_VPN-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-VPC_VPN-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces-Core {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces-Core.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces-Web {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces-Web.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces {
+    icon:C:/Development/D2/assets/aws/Res_Amazon-WorkSpaces-Family_Amazon-WorkSpaces.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Authenticated-User_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Authenticated-User_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Authenticated-User_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Authenticated-User_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Amplify_AWS-Amplify-Studio {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Amplify_AWS-Amplify-Studio.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-App-Mesh_Mesh {
+    icon:C:/Development/D2/assets/aws/Res_AWS-App-Mesh_Mesh.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-App-Mesh_Virtual-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-App-Mesh_Virtual-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-App-Mesh_Virtual-Node {
+    icon:C:/Development/D2/assets/aws/Res_AWS-App-Mesh_Virtual-Node.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-App-Mesh_Virtual-Router {
+    icon:C:/Development/D2/assets/aws/Res_AWS-App-Mesh_Virtual-Router.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-App-Mesh_Virtual-Service {
+    icon:C:/Development/D2/assets/aws/Res_AWS-App-Mesh_Virtual-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Application-Discovery-Service_AWS-Agentless-Collector {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Application-Discovery-Service_AWS-Agentless-Collector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Application-Discovery-Service_AWS-Discovery-Agent {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Application-Discovery-Service_AWS-Discovery-Agent.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Application-Discovery-Service_Migration-Evaluator-Collector {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Application-Discovery-Service_Migration-Evaluator-Collector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Audit-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Audit-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_AWS-Backup-for-AWS-CloudFormation {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_AWS-Backup-for-AWS-CloudFormation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_AWS-Backup-support-for-Amazon-FSx-for-NetApp-ONTAP {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_AWS-Backup-support-for-Amazon-FSx-for-NetApp-ONTAP.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_AWS-Backup-support-for-Amazon-S3 {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_AWS-Backup-support-for-Amazon-S3.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_AWS-Backup-Support-for-VMware-Workloads {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_AWS-Backup-Support-for-VMware-Workloads.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Backup-Plan {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Backup-Plan.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Backup-Restore {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Backup-Restore.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Backup-Vault {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Backup-Vault.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Compliance-Reporting {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Compliance-Reporting.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Compute {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Compute.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Database {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Database.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Legal-Hold {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Legal-Hold.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Recovery-Point-Objective {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Recovery-Point-Objective.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Recovery-Time-Objective {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Recovery-Time-Objective.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Storage {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Storage.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Vault-Lock {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Vault-Lock.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Virtual-Machine-Monitor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Virtual-Machine-Monitor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Backup_Virtual-Machine {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Backup_Virtual-Machine.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Certificate-Manager_Certificate-Authority {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Certificate-Manager_Certificate-Authority.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-Digital-Interface {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-Digital-Interface.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-Map_Namespace {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-Map_Namespace.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-Map_Resource {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-Map_Resource.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-Map_Service {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-Map_Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-WAN_Core-Network-Edge {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-WAN_Core-Network-Edge.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-WAN_Segment-Network {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-WAN_Segment-Network.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud-WAN_Transit-Gateway-Route-Table-Attachment {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud-WAN_Transit-Gateway-Route-Table-Attachment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Cloud9_Cloud9 {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Cloud9_Cloud9.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-CloudFormation_Change-Set {
+    icon:C:/Development/D2/assets/aws/Res_AWS-CloudFormation_Change-Set.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-CloudFormation_Stack {
+    icon:C:/Development/D2/assets/aws/Res_AWS-CloudFormation_Stack.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-CloudFormation_Template {
+    icon:C:/Development/D2/assets/aws/Res_AWS-CloudFormation_Template.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-CloudTrail_CloudTrail-Lake {
+    icon:C:/Development/D2/assets/aws/Res_AWS-CloudTrail_CloudTrail-Lake.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Data-Exchange-for-APIs {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Data-Exchange-for-APIs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Database-Migration-Service_Database-migration-workflow-or-job {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Database-Migration-Service_Database-migration-workflow-or-job.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Datasync_Agent {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Datasync_Agent.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-DataSync_Discovery {
+    icon:C:/Development/D2/assets/aws/Res_AWS-DataSync_Discovery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Direct-Connect_Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Direct-Connect_Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Directory-Service_AD-Connector {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Directory-Service_AD-Connector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Directory-Service_AWS-Managed-Microsoft-AD {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Directory-Service_AWS-Managed-Microsoft-AD.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Directory-Service_Simple-AD {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Directory-Service_Simple-AD.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Elastic-Beanstalk_Application {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Elastic-Beanstalk_Application.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Elastic-Beanstalk_Deployment {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Elastic-Beanstalk_Deployment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Elemental-MediaConnect_MediaConnect-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Elemental-MediaConnect_MediaConnect-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Glue_AWS-Glue-for-Ray {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Glue_AWS-Glue-for-Ray.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Glue_Crawler {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Glue_Crawler.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Glue_Data-Catalog {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Glue_Data-Catalog.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Glue_Data-Quality {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Glue_Data-Quality.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Add-on {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Add-on.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_AWS-STS-Alternate {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_AWS-STS-Alternate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_AWS-STS {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_AWS-STS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Data-Encryption-Key {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Data-Encryption-Key.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Encrypted-Data {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Encrypted-Data.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_IAM-Access-Analyzer {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_IAM-Access-Analyzer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_IAM-Roles-Anywhere {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_IAM-Roles-Anywhere.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Long-Term-Security-Credential {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Long-Term-Security-Credential.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_MFA-Token {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_MFA-Token.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Permissions {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Permissions.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Role {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Role.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Identity-Access-Management_Temporary-Security-Credential {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Identity-Access-Management_Temporary-Security-Credential.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Analytics_Channel {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Analytics_Channel.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Analytics_Data-Store {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Analytics_Data-Store.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Analytics_Dataset {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Analytics_Dataset.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Analytics_Notebook {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Analytics_Notebook.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Analytics_Pipeline {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Analytics_Pipeline.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Core_Device-Advisor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Core_Device-Advisor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Core_Device-Location {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Core_Device-Location.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Device-Defender_IoT-Device-Jobs {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Device-Defender_IoT-Device-Jobs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Device-Management_Fleet-Hub {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Device-Management_Fleet-Hub.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Device-Tester {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Device-Tester.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Artifact {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Artifact.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Component-Machine-Learning {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Component-Machine-Learning.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Component-Nucleus {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Component-Nucleus.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Component-Private {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Component-Private.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Component-Public {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Component-Public.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Component {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Component.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Connector {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Connector.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Interprocess-Communication {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Interprocess-Communication.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Protocol {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Protocol.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Recipe {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Recipe.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Greengrass_Stream-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Greengrass_Stream-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Hardware-Board {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Hardware-Board.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-Rule {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-SiteWise_Asset-Hierarchy {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-SiteWise_Asset-Hierarchy.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-SiteWise_Asset-Model {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-SiteWise_Asset-Model.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-SiteWise_Asset-Properties {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-SiteWise_Asset-Properties.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-SiteWise_Asset {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-SiteWise_Asset.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT-SiteWise_Data-Streams {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT-SiteWise_Data-Streams.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Action {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Action.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Actuator {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Actuator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Alexa_Enabled-Device {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Alexa_Enabled-Device.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Alexa_Skill {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Alexa_Skill.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Alexa_Voice-Service {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Alexa_Voice-Service.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Certificate {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Certificate.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Desired-State {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Desired-State.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Device-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Device-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Echo {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Echo.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Fire-TV_Stick {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Fire-TV_Stick.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Fire_TV {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Fire_TV.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_HTTP2-Protocol {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_HTTP2-Protocol.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_HTTP_Protocol {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_HTTP_Protocol.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Lambda_Function {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Lambda_Function.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_LoRaWAN-Protocol {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_LoRaWAN-Protocol.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_MQTT_Protocol {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_MQTT_Protocol.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Over-Air-Update {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Over-Air-Update.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Policy {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Policy.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Reported-State {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Reported-State.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Sailboat {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Sailboat.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Servo {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Servo.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Shadow {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Shadow.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Simulator {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Simulator.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Bank {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Bank.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Bicycle {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Bicycle.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Camera {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Camera.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Car {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Car.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Cart {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Cart.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Coffee-Pot {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Coffee-Pot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Door-Lock {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Door-Lock.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Factory {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Factory.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_FreeRTOS-Device {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_FreeRTOS-Device.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Generic {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Generic.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_House {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_House.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Humidity-Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Humidity-Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Industrial-PC {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Industrial-PC.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Lightbulb {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Lightbulb.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Medical-Emergency {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Medical-Emergency.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_PLC {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_PLC.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Police-Emergency {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Police-Emergency.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Relay {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Relay.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Stacklight {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Stacklight.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Temperature-Humidity-Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Temperature-Humidity-Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Temperature-Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Temperature-Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Temperature-Vibration-Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Temperature-Vibration-Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Thermostat {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Thermostat.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Travel {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Travel.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Utility {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Utility.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Vibration-Sensor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Vibration-Sensor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Thing_Windfarm {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Thing_Windfarm.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-IoT_Topic {
+    icon:C:/Development/D2/assets/aws/Res_AWS-IoT_Topic.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Key-Management-Service_External-Key-Store {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Key-Management-Service_External-Key-Store.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Lake-Formation_Data-Lake {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Lake-Formation_Data-Lake.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Lambda_Lambda-Function {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Lambda_Lambda-Function.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-License-Manager_Application-Discovery {
+    icon:C:/Development/D2/assets/aws/Res_AWS-License-Manager_Application-Discovery.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-License-Manager_License-Blending {
+    icon:C:/Development/D2/assets/aws/Res_AWS-License-Manager_License-Blending.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Mainframe-Modernization_Analyzer {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Mainframe-Modernization_Analyzer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Mainframe-Modernization_Compiler {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Mainframe-Modernization_Compiler.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Mainframe-Modernization_Converter {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Mainframe-Modernization_Converter.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Mainframe-Modernization_Developer {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Mainframe-Modernization_Developer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Mainframe-Modernization_Runtime {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Mainframe-Modernization_Runtime.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Management-Console_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Management-Console_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Management-Console_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Management-Console_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Migration-Hub_Refactor-Spaces-Applications {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Migration-Hub_Refactor-Spaces-Applications.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Migration-Hub_Refactor-Spaces-Environments {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Migration-Hub_Refactor-Spaces-Environments.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Migration-Hub_Refactor-Spaces-Services {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Migration-Hub_Refactor-Spaces-Services.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Network-Firewall_Endpoints {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Network-Firewall_Endpoints.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Apps {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Apps.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Deployments {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Deployments.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Instances {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Instances.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Layers {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Layers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Monitoring {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Monitoring.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Permissions {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Permissions.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Resources {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Resources.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-OpsWorks_Stack2 {
+    icon:C:/Development/D2/assets/aws/Res_AWS-OpsWorks_Stack2.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Organizations_Account {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Organizations_Account.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Organizations_Management-Account {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Organizations_Management-Account.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Organizations_Organizational-Unit {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Organizations_Organizational-Unit.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-RoboMaker_Cloud-Extensions-ROS {
+    icon:C:/Development/D2/assets/aws/Res_AWS-RoboMaker_Cloud-Extensions-ROS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-RoboMaker_Development-Environment {
+    icon:C:/Development/D2/assets/aws/Res_AWS-RoboMaker_Development-Environment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-RoboMaker_Fleet-Management {
+    icon:C:/Development/D2/assets/aws/Res_AWS-RoboMaker_Fleet-Management.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-RoboMaker_Simulation {
+    icon:C:/Development/D2/assets/aws/Res_AWS-RoboMaker_Simulation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Security-Hub_Finding {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Security-Hub_Finding.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Shield_AWS-Shield-Advanced {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Shield_AWS-Shield-Advanced.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Snowball_Snowball-Import-Export {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Snowball_Snowball-Import-Export.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Amazon-FSx-File-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Amazon-FSx-File-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Amazon-S3-File-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Amazon-S3-File-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Cached-Volume {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Cached-Volume.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_File-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_File-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Noncached-Volume {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Noncached-Volume.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Tape-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Tape-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Virtual-Tape-Library {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Virtual-Tape-Library.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Storage-Gateway_Volume-Gateway {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Storage-Gateway_Volume-Gateway.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Application-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Application-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Automation {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Automation.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Change-Calendar {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Change-Calendar.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Change-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Change-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Compliance {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Compliance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Distributor {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Distributor.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Documents {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Documents.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Incident-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Incident-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Inventory {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Inventory.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Maintenance-Windows {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Maintenance-Windows.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_OpsCenter {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_OpsCenter.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Parameter-Store {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Parameter-Store.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Patch-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Patch-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Run-Command {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Run-Command.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_Session-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_Session-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Systems-Manager_State-Manager {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Systems-Manager_State-Manager.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Transfer-Family_AWS-AS2 {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Transfer-Family_AWS-AS2.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Transfer-Family_AWS-FTP {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Transfer-Family_AWS-FTP.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Transfer-Family_AWS-FTPS {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Transfer-Family_AWS-FTPS.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Transfer-Family_AWS-SFTP {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Transfer-Family_AWS-SFTP.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Transit-Gateway_Attachment {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Transit-Gateway_Attachment.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Trusted-Advisor_Checklist-Cost {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Trusted-Advisor_Checklist-Cost.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Trusted-Advisor_Checklist-Fault-Tolerant {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Trusted-Advisor_Checklist-Fault-Tolerant.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Trusted-Advisor_Checklist-Performance {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Trusted-Advisor_Checklist-Performance.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Trusted-Advisor_Checklist-Security {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Trusted-Advisor_Checklist-Security.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-Trusted-Advisor_Checklist {
+    icon:C:/Development/D2/assets/aws/Res_AWS-Trusted-Advisor_Checklist.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Bad-Bot {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Bad-Bot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Bot-Control {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Bot-Control.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Bot {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Bot.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Filtering-Rule {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Filtering-Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Labels {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Labels.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Managed-Rule {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Managed-Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_AWS-WAF_Rule {
+    icon:C:/Development/D2/assets/aws/Res_AWS-WAF_Rule.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Camera_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Camera_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Camera_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Camera_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Chat_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Chat_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Chat_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Chat_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Client_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Client_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Client_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Client_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Cold-Storage_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Cold-Storage_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Cold-Storage_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Cold-Storage_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Credentials_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Credentials_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Credentials_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Credentials_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Data-Stream_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Data-Stream_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Data-Stream_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Data-Stream_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Data-Table_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Data-Table_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Data-Table_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Data-Table_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Database_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Database_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Database_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Database_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Disk_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Disk_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Disk_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Disk_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Documents_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Documents_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Documents_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Documents_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Document_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Document_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Document_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Document_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Elastic-Load-Balancing_Application-Load-Balancer {
+    icon:C:/Development/D2/assets/aws/Res_Elastic-Load-Balancing_Application-Load-Balancer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Elastic-Load-Balancing_Classic-Load-Balancer {
+    icon:C:/Development/D2/assets/aws/Res_Elastic-Load-Balancing_Classic-Load-Balancer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Elastic-Load-Balancing_Gateway-Load-Balancer {
+    icon:C:/Development/D2/assets/aws/Res_Elastic-Load-Balancing_Gateway-Load-Balancer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Elastic-Load-Balancing_Network-Load-Balancer {
+    icon:C:/Development/D2/assets/aws/Res_Elastic-Load-Balancing_Network-Load-Balancer.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Email_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Email_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Email_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Email_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Firewall_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Firewall_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Firewall_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Firewall_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Folders_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Folders_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Folders_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Folders_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Folder_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Folder_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Folder_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Folder_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Forums_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Forums_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Forums_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Forums_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Gear_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Gear_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Gear_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Gear_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Generic-Application_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Generic-Application_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Generic-Application_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Generic-Application_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Git-Repository_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Git-Repository_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Git-Repository_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Git-Repository_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Globe_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Globe_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Globe_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Globe_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet-alt1_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Internet-alt1_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet-alt1_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Internet-alt1_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet-alt2_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Internet-alt2_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet-alt2_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Internet-alt2_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Internet_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Internet_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Internet_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_JSON-Script_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_JSON-Script_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_JSON-Script_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_JSON-Script_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Logs_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Logs_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Logs_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Logs_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Magnifying-Glass_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Magnifying-Glass_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Magnifying-Glass_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Magnifying-Glass_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Metrics_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Metrics_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Metrics_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Metrics_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Mobile-client_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Mobile-client_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Mobile-client_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Mobile-client_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Multimedia_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Multimedia_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Multimedia_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Multimedia_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Office-building_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Office-building_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Office-building_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Office-building_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Programming-Language_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Programming-Language_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Programming-Language_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Programming-Language_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Question_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Question_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Question_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Question_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Recover_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Recover_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Recover_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Recover_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SAML-token_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_SAML-token_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SAML-token_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_SAML-token_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SDK_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_SDK_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SDK_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_SDK_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Servers_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Servers_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Servers_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Servers_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Server_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Server_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Server_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Server_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Shield_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Shield_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Shield_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Shield_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Source-Code_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Source-Code_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Source-Code_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Source-Code_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SSL-padlock_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_SSL-padlock_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_SSL-padlock_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_SSL-padlock_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Tape-storage_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Tape-storage_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Tape-storage_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Tape-storage_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Toolkit_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Toolkit_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Toolkit_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Toolkit_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Users_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_Users_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_Users_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_Users_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_User_48_Dark {
+    icon:C:/Development/D2/assets/aws/Res_User_48_Dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Res_User_48_Light {
+    icon:C:/Development/D2/assets/aws/Res_User_48_Light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Server-contents {
+    icon:C:/Development/D2/assets/aws/Server-contents.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Spot-Fleet {
+    icon:C:/Development/D2/assets/aws/Spot-Fleet.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+Virtual-private-cloud-VPC {
+    icon:C:/Development/D2/assets/aws/Virtual-private-cloud-VPC.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+

@@ -1,0 +1,420 @@
+alert {
+    icon:C:\Development\D2\assets\general\alert.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+all-products-dark {
+    icon:C:\Development\D2\assets\general\all-products-dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+all-products-light {
+    icon:C:\Development\D2\assets\general\all-products-light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+application {
+    icon:C:\Development\D2\assets\general\application.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+authenticated-user {
+    icon:C:\Development\D2\assets\general\authenticated-user.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+camera {
+    icon:C:\Development\D2\assets\general\camera.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+chat {
+    icon:C:\Development\D2\assets\general\chat.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+client {
+    icon:C:\Development\D2\assets\general\client.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+code-file {
+    icon:C:\Development\D2\assets\general\code-file.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+cold-storage {
+    icon:C:\Development\D2\assets\general\cold-storage.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+credentials {
+    icon:C:\Development\D2\assets\general\credentials.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+data-center {
+    icon:C:\Development\D2\assets\general\data-center.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+data-stream {
+    icon:C:\Development\D2\assets\general\data-stream.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+database {
+    icon:C:\Development\D2\assets\general\database.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+disk {
+    icon:C:\Development\D2\assets\general\disk.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+document {
+    icon:C:\Development\D2\assets\general\document.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+documents {
+    icon:C:\Development\D2\assets\general\documents.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+email {
+    icon:C:\Development\D2\assets\general\email.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+firewall {
+    icon:C:\Development\D2\assets\general\firewall.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+folder {
+    icon:C:\Development\D2\assets\general\folder.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+folders {
+    icon:C:\Development\D2\assets\general\folders.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+forums {
+    icon:C:\Development\D2\assets\general\forums.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+general {
+    icon:C:\Development\D2\assets\general\general.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+git-repo {
+    icon:C:\Development\D2\assets\general\git-repo.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+globe {
+    icon:C:\Development\D2\assets\general\globe.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+internet-wireless {
+    icon:C:\Development\D2\assets\general\internet-wireless.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+internet {
+    icon:C:\Development\D2\assets\general\internet.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+JSON {
+    icon:C:\Development\D2\assets\general\JSON.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+logs {
+    icon:C:\Development\D2\assets\general\logs.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+management-console {
+    icon:C:\Development\D2\assets\general\management-console.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+marketplace-dark {
+    icon:C:\Development\D2\assets\general\marketplace-dark.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+marketplace-light {
+    icon:C:\Development\D2\assets\general\marketplace-light.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+sdk {
+    icon:C:\Development\D2\assets\general\sdk.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+secure {
+    icon:C:\Development\D2\assets\general\secure.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+server {
+    icon:C:\Development\D2\assets\general\server.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+servers {
+    icon:C:\Development\D2\assets\general\servers.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+shield {
+    icon:C:\Development\D2\assets\general\shield.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+table {
+    icon:C:\Development\D2\assets\general\table.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+tape-storage {
+    icon:C:\Development\D2\assets\general\tape-storage.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+token {
+    icon:C:\Development\D2\assets\general\token.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+user {
+    icon:C:\Development\D2\assets\general\user.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+
+users {
+    icon:C:\Development\D2\assets\general\users.svg
+    shape:image
+    height:50
+    style{
+        font:mono
+        font-size:14
+    }
+}
+

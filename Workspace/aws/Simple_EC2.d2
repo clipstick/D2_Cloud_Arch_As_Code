@@ -1,0 +1,31 @@
+...@../aws-nodes
+...@../general-nodes
+
+VPC.class: Virtual-private-cloud-VPC
+VPC: {
+near:top-left 
+  label: VPC AZ-1
+  Server1.class: Arch_Amazon-EC2
+
+  Server1: {
+    tooltip: Apache2 & PHP
+    label: Webserver
+  }
+  Server2.class: Arch_Amazon-RDS
+
+  Server1 <-> Server2: DB Connection
+}
+
+VPC2.class: Virtual-private-cloud-VPC
+VPC2: {
+    near:top-right
+  label: VPC AZ-2
+  Server1.class: Arch_Amazon-EC2
+  Server2.class: Arch_Amazon-RDS
+  # #Connections 
+  Server1 <-> Server2: DB Connection
+}
+
+
+VPC.Server2 -> VPC2.Server2: Read Replication
+
